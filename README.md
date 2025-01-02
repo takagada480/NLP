@@ -1,2 +1,2 @@
 # NLP
-Natural language processing for Tamazight language  work in progress
+Natural language processing for kabyle language  work in progress
